@@ -6,7 +6,7 @@ https://ajithshetty28.medium.com/deequ-i-mean-data-quality-a0e6c048469d
 **Introduction**
 Deequ is a library built on top of Apache Spark for defining “unit tests for data”, which measure data quality in large datasets.
 Python users may also be interested in PyDeequ, a Python interface for Deequ. You can find PyDeequ on GitHub, readthedocs, and PyPI.
-Source
+source: https://github.com/awslabs/deequ
 
 **What does it do**
 
