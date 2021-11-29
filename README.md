@@ -1,4 +1,4 @@
-# DeequeDemo
+# AWS Deeque Demo
 
 https://ajithshetty28.medium.com/deequ-i-mean-data-quality-a0e6c048469d
 
